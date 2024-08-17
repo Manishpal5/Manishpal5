@@ -2,7 +2,7 @@
 I'm Manish pal, a  final year Master of Computer application from NIET, India.<br>I am passionate about everything  DevOps and all Cloud Native Technologies and tools and give back by contributing to open source and communities.<br> 
 
 ## Socials
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-pal-678165220)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lavishpal408)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/manish-pal-1063b8236)    
 
 ## Personal Interests
 📚 Outside of my professional pursuits, I have a passion for reading and exploring the fascinating world of literature. 
